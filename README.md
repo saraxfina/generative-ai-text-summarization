@@ -6,6 +6,9 @@ SummarAIze is a model that generates concise summmaries of long documents or art
 
 ## Contribution guidelines
 
+## Project Planning
+[Documentation](docs/README.md)
+
 
 ## Team
 **Scott Mayer**  
