@@ -23,8 +23,27 @@ In academic, corporate, and legal environments, there is a need for efficient co
 ## Timeline  
 Estimated duration: 36 hours
 
-Monday: Setup; Planning; Data Access & Preparation; and start EDA  
-Tuesday: EDA; Model Development; start Model Training & Validation  
-Wednesday: Model Training & Validation; Model Auditing   
-Thursday: Model Serving & Containerization; Project Documentation and Demo Preparation
+**Monday**: Setup; Planning; Data Access & Preparation; and start EDA  
+**Tuesday**: EDA; Model Development; start Model Training & Validation  
+**Wednesday**: Model Training & Validation; Model Auditing   
+**Thursday**: Model Serving & Containerization; Project Documentation and Demo Preparation
+
+
+## Dataset
+
+### Summary & Usage
+
+The CNN/DailyMail dataset is a collection of over 300,000 English-language news articles sourced from CNN and the Daily Mail. This dataset is often leveraged to train models for both extractive and abstractive summarization. Model evaluation entails comparing generated summaries against the author-defined highlights using ROUGE scores.   
+
+### How to access
+
+The CNN/DailyMail dataset is publicly available. Please refer to the [link](https://huggingface.co/datasets/cnn_dailymail).  
+
+### Data Dictionary
+
+| Name          | Description                        | Data Type | Required? |
+| ------------- | ---------------------------------- | --------- | --------- |
+| Article       | Body of the news article           | String    | Yes       |
+| Highlights    | Author-chosen article highlights   | String    | Yes       |
+| ID            | SHA1 hash of article URL           | String    | Yes       |
 
