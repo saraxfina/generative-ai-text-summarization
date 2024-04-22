@@ -3,6 +3,7 @@ hyperopt==0.2.7
 ipykernel==6.29.4
 ipython==8.18.1
 keras==3.2.1
+datasets==2.19.0
 lesscpy==0.15.1
 libclang==18.1.1
 Markdown==3.6
