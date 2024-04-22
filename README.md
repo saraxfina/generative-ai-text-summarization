@@ -14,14 +14,12 @@ SummarAIze is a model that generates concise summmaries of long documents or art
 ## TODO List
 
 Initial Setup 
- [x] Setup VCS 
+- [x] Setup VCS 
 - [ ] Test env 
 - [ ] Set up MLFLOW 
 - [ ] Set up HyperOpt
 - [ ] Install Sphinx 
 - [ ] Docker 
-- [ ]  
-- [ ]
 
 Project Planning 
 - [ ] Decide on Performance metrics  
@@ -29,11 +27,6 @@ Project Planning
 
 Data Collection and Preparation 
 - [ ] Download and preprocess dataset 
-- [ ]  
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ]
 
 Exploratory Data Analysis
 - [ ] 
