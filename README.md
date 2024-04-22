@@ -10,3 +10,67 @@ SummarAIze is a model that generates concise summmaries of long documents or art
 ## Team
 **Scott Mayer**  
 **Sarafina Gonzalez**
+
+## TODO List
+
+Initial Setup 
+ [x] Setup VCS 
+- [ ] Test env 
+- [ ] Set up MLFLOW 
+- [ ] Set up HyperOpt
+- [ ] Install Sphinx 
+- [ ] Docker 
+- [ ]  
+- [ ]
+
+Project Planning 
+- [ ] Decide on Performance metrics  
+- [ ] Decide on minimum performance  
+
+Data Collection and Preparation 
+- [ ] Download and preprocess dataset 
+- [ ]  
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ]
+
+Exploratory Data Analysis
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ]
+
+Model Development
+- [ ] 
+- [ ]
+- [ ]
+- [ ]
+
+Model Training and Validation
+- [ ] 
+- [ ]
+- [ ] 
+- [ ]
+
+Model Auditiing
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+
+Model Serving and Containerization 
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+
+Project Documentation and Demo Presentation 
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+
+
+
