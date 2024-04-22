@@ -9,4 +9,5 @@ SummarAIze is a model that generates concise summmaries of long documents or art
 
 ## Team
 **Scott Mayer**
+
 **Sarafina Gonzalez**
