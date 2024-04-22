@@ -30,3 +30,4 @@ tensorboard-data-server==0.7.2
 tensorflow==2.16.1
 tensorflow-io-gcs-filesystem==0.36.0
 unicorn==1.0.3
+newspaper3k==0.2.8
