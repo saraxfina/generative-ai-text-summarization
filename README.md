@@ -11,6 +11,37 @@ SummarAIze is a model that generates concise summmaries of long documents or art
 **Scott Mayer**  
 **Sarafina Gonzalez**
 
+## Project Overview
+ 
+### Phase 1:  Data Collection & Preparation
+- Deliverables
+- Data dictionary in docs/ directory
+- README in data/ directory explaining data access and use
+- Tasks
+- Identify and collect relevant data sources
+- Data cleaning and preprocessing
+- Document data sources and preprocessing
+ 
+### Phase 2: EDA
+- Deliverables
+- EDA Jupyter notebooks in notebooks/ directory
+- Tasks
+- Load & review data
+- Text-specific analysis
+- Visualize data insights
+- Document data insights & observations
+- Prepare data for modeling
+ 
+### Phase 3: Model Development
+- Deliverables
+- Modeling development scripts in notebooks/ directory
+- Tasks
+- Develop transformer model
+- Select and retrain pre-trained model
+- Setup Mlflow for experiment tracking
+- Training and evaluation setup
+
+
 ## TODO List
 
 Initial Setup 
