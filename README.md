@@ -15,6 +15,7 @@ SummarAIze is a model that generates concise summmaries of long documents or art
  
 ### Phase 1:  Data Collection & Preparation
 - Deliverables
+- Problem statement
 - Data dictionary in docs/ directory
 - README in data/ directory explaining data access and use
 - Tasks
