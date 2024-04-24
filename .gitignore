@@ -1,2 +1,10 @@
-notebooks/.ipynb_checkpoints
-
+models/transformer/transformer_model_v1.keras
+models/transformer/transformer_model_v3.keras
+models/transformer/transformer_model_v2.keras
+models/transformer/transformer_model_v4.keras
+.git/objects/b2/3cdbe35df097994dcbef6006cd60071467cdc1
+.git/objects/37/eb7aee5f86b11d7812169236db24a3335fff3d
+.git/objects/01/1eaacfdf0f5dc58316e110a5a262adeda540e6
+.git/objects/af/f639eb83b272e0467b05a33d5d2dec847a1034
+.git/objects/e6/18ff96998d806dac9521ffdf70e58519c7fe0e
+notebooks/mlruns/373187251944716052/0e7dda5db3a74203add653f8963be043/artifacts/model/data/model.keras

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/11-final_project/generative-ai-text-summarization/notebooks/mlruns/178530078164840015/dd9437d980a14967959d527fc4ed190d/artifacts
+end_time: 1713983134797
+entry_point_name: ''
+experiment_id: '178530078164840015'
+lifecycle_stage: active
+run_id: dd9437d980a14967959d527fc4ed190d
+run_name: resilient-kit-700
+run_uuid: dd9437d980a14967959d527fc4ed190d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713983134121
+status: 4
+tags: []
+user_id: scott

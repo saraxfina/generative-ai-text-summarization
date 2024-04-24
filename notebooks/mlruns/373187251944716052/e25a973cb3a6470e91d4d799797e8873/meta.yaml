@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/11-final_project/generative-ai-text-summarization/notebooks/mlruns/373187251944716052/e25a973cb3a6470e91d4d799797e8873/artifacts
+end_time: 1713986620693
+entry_point_name: ''
+experiment_id: '373187251944716052'
+lifecycle_stage: active
+run_id: e25a973cb3a6470e91d4d799797e8873
+run_name: fun-stoat-215
+run_uuid: e25a973cb3a6470e91d4d799797e8873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713986620687
+status: 4
+tags: []
+user_id: scott

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/11-final_project/generative-ai-text-summarization/notebooks/mlruns/178530078164840015/6fc3d0ed1f4047cc8792d191742bf62e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '178530078164840015'
+lifecycle_stage: active
+run_id: 6fc3d0ed1f4047cc8792d191742bf62e
+run_name: delicate-dove-617
+run_uuid: 6fc3d0ed1f4047cc8792d191742bf62e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713983199181
+status: 1
+tags: []
+user_id: scott

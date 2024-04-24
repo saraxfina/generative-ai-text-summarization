@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/11-final_project/generative-ai-text-summarization/notebooks/mlruns/178530078164840015/08937fba036e412d850635b6c81bc011/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '178530078164840015'
+lifecycle_stage: active
+run_id: 08937fba036e412d850635b6c81bc011
+run_name: thundering-snipe-836
+run_uuid: 08937fba036e412d850635b6c81bc011
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713983583178
+status: 1
+tags: []
+user_id: scott

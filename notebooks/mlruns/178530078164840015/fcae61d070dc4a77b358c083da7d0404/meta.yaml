@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/11-final_project/generative-ai-text-summarization/notebooks/mlruns/178530078164840015/fcae61d070dc4a77b358c083da7d0404/artifacts
+end_time: 1713983144261
+entry_point_name: ''
+experiment_id: '178530078164840015'
+lifecycle_stage: active
+run_id: fcae61d070dc4a77b358c083da7d0404
+run_name: crawling-seal-235
+run_uuid: fcae61d070dc4a77b358c083da7d0404
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713983143861
+status: 4
+tags: []
+user_id: scott

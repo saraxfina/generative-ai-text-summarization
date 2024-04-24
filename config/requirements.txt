@@ -2,8 +2,11 @@ h5py==3.11.0
 hyperopt==0.2.7
 ipykernel==6.29.4
 ipython==8.18.1
+mlflow==2.9.2
 keras==3.2.1
+tf-keras==2.16.0
 datasets==2.19.0
+torch==2.3.0
 lesscpy==0.15.1
 libclang==18.1.1
 Markdown==3.6
@@ -31,3 +34,4 @@ tensorflow==2.16.1
 tensorflow-io-gcs-filesystem==0.36.0
 unicorn==1.0.3
 newspaper3k==0.2.8
+transformers==4.40.1

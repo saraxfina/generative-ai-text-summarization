@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/11-final_project/generative-ai-text-summarization/notebooks/mlruns/178530078164840015/1466eac56d904448b539f4672a648438/artifacts
+end_time: 1713984740923
+entry_point_name: ''
+experiment_id: '178530078164840015'
+lifecycle_stage: active
+run_id: 1466eac56d904448b539f4672a648438
+run_name: handsome-conch-121
+run_uuid: 1466eac56d904448b539f4672a648438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713984418438
+status: 3
+tags: []
+user_id: scott
