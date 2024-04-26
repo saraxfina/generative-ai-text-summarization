@@ -1,43 +1,56 @@
-# Project Planning
+# Documentation
 
-## Problem Statement  
-In academic, corporate, and legal environments, there is a need for efficient comprenhension and decision-making from lengthy documents and articles. However, the time and effort these tasks demand pose a significant challenge. To address this, the SummarAIze model sets out to generate concise summaries while enriching them with contextually relavant details such as background information, definitions, and explantions. 
+# Table of Contents
+1. [Setup](#phase1)  
+2. [Project Planning](#phase2)  
+3. [Data Collection and Preparation](#phase3)  
+4. [Exploratory Data Analysis](#phase4)  
+5. [Model Development](#phase5)  
+6. [Model Training and Validation](#phase6)  
+7. [Model Containerization](#phase7)
 
 
-## Project Scope and Objectives  
+## 1. Setup <a name="phase1"></a>
+[Instructions](config/README.md)  
 
-* **Model Development**: Develop a summarization model capable of generating concise summaries from lengthy documents.  
-* **Contextual Enrichment**: Implement method to enrich the summaries with contextually relevant information to enhance comprehension.  
+---  
+
+## 2. Project Planning <a name="phase2"></a>
+
+### Problem Statement  
+In academic, corporate, and legal environments, there is a need for efficient comprenhension and decision-making from lengthy documents and articles. However, the time and effort these tasks demand pose a significant challenge. To address this, the SummarAIze model sets out to generate concise summaries while enriching them with contextually relavant details such as background information, definitions, and explanations.   
+
+### Project Objectives  
+
+* **Model Development**: Develop a summarization model capable of generating concise summaries from documents.  
+* **Contextual Enrichment**: Enrich the summaries with contextually relevant information to enhance comprehension.  
 * **Performance Optimization**: Optimize the model's performance to ensure efficient processing of large volumes of text while maintaining accuracy and coherence in the summaries.  
-* **User Interface**: Ensure easy, user-friendly input of documents/articles and retrieval of enriched summaries.  
 * **Evaluation**: Conduct thorough evaluation and validation of the model's effectiveness in generating accurate summaries and providing valuable contextual information.  
 * **Deployment**: Deploy the model for demo usage.
 
-## Key Deliverables
+### Key Deliverables
 * Data dictionary and data sources  
 * EDA notebooks  
 * Model development scripts  
 * API code and documentation  
 * Presentation materials and project report
 
-## Timeline  
+### Timeline  
 Estimated duration: 36 hours
 
-**Monday**: Setup; Planning; Data Access & Preparation; and start EDA  
+**Monday**: Setup; Planning; Data Access & Preparation; start EDA  
 **Tuesday**: EDA; Model Development; start Model Training & Validation  
 **Wednesday**: Model Training & Validation; Model Auditing   
-**Thursday**: Model Serving & Containerization; Project Documentation and Demo Preparation
+**Thursday**: Model Serving & Containerization; Project Documentation & Demo Preparation
 
+---
 
-## Dataset
+## 3. Data Collection and Preparation <a name="phase3"></a>
 
-### Summary & Usage
+### Data Sources
 
-The CNN/DailyMail dataset is a collection of over 300,000 English-language news articles sourced from CNN and the Daily Mail. This dataset is often leveraged to train models for both extractive and abstractive summarization. Model evaluation entails comparing generated summaries against the author-defined highlights using ROUGE scores.   
-
-### How to access
-
-The CNN/DailyMail dataset is publicly available. Please refer to the [link](https://huggingface.co/datasets/cnn_dailymail).  
+[**CNN/DailyMail**](data/README.md): A collection of over 300,000 English-language news articles sourced from CNN and the Daily Mail; used for training summarization models.  
+[**News API**](data/README.md): A comprehensive collection of real-time news articles from global sources.  
 
 ### Data Dictionary
 
@@ -45,5 +58,31 @@ The CNN/DailyMail dataset is publicly available. Please refer to the [link](http
 | ------------- | ---------------------------------- | --------- | --------- |
 | Article       | Body of the news article           | String    | Yes       |
 | Highlights    | Author-chosen article highlights   | String    | Yes       |
-| ID            | SHA1 hash of article URL           | String    | Yes       |
+| ID            | SHA1 hash of article URL           | String    | No        |
+
+Both datasets contain these three columns, in which the 'Article' column will be the documents and 'Highlights' the corresponding summaries. The 'ID' column is not used for this project.  
+
+### Preprocessing steps
+
+1. Remove missing values  
+2. Convert all text to lowercase  
+3. Remove special characters  
+4. Split into test, train, and val sets
+
+---
+
+## 4. Exploratory Data Analysis <a name="phase4"></a>
+
+---
+
+## 5. Model Development <a name="phase5"></a>
+
+---
+
+## 6. Model Training and Validation <a name="phase6"></a>
+
+---
+
+## 7. Model Containerization <a name="phase7"></a>
+
 

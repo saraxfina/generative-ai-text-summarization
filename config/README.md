@@ -4,7 +4,8 @@
 ` pip install -r requirements.txt ` 
 
 
-### Jupyter Instructions 
+### Jupyter Instructions
+ 
 ` python -m ipykernel install --user --name=capstone ` 
 
 ### Docker Build Instructions
