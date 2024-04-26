@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/11-final_project/generative-ai-text-summarization/notebooks/mlruns/913446595488044210/b5e96f2f1bd4409ea3edff69f6d8a162/artifacts
+end_time: 1714056128026
+entry_point_name: ''
+experiment_id: '913446595488044210'
+lifecycle_stage: active
+run_id: b5e96f2f1bd4409ea3edff69f6d8a162
+run_name: nosy-rat-84
+run_uuid: b5e96f2f1bd4409ea3edff69f6d8a162
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714056060509
+status: 4
+tags: []
+user_id: scott

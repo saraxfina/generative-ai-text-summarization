@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/11-final_project/generative-ai-text-summarization/src/mlruns/366187735372430007/334aff6d62d440848c472009df74a6b0/artifacts
+end_time: 1714063867934
+entry_point_name: ''
+experiment_id: '366187735372430007'
+lifecycle_stage: active
+run_id: 334aff6d62d440848c472009df74a6b0
+run_name: funny-foal-615
+run_uuid: 334aff6d62d440848c472009df74a6b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714060848750
+status: 3
+tags: []
+user_id: scott

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/11-final_project/generative-ai-text-summarization/src/mlruns/532620635989680925/e2a7522fd5e54ae89425458adfbb8820/artifacts
+end_time: 1714066063065
+entry_point_name: ''
+experiment_id: '532620635989680925'
+lifecycle_stage: active
+run_id: e2a7522fd5e54ae89425458adfbb8820
+run_name: serious-tern-773
+run_uuid: e2a7522fd5e54ae89425458adfbb8820
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714066044676
+status: 4
+tags: []
+user_id: scott

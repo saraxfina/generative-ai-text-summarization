@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/11-final_project/generative-ai-text-summarization/src/mlruns/235057096234848013/8707c22d294540caa58ef66c4b862ff2/artifacts
+end_time: 1714075680871
+entry_point_name: ''
+experiment_id: '235057096234848013'
+lifecycle_stage: active
+run_id: 8707c22d294540caa58ef66c4b862ff2
+run_name: beautiful-goat-569
+run_uuid: 8707c22d294540caa58ef66c4b862ff2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714073242546
+status: 3
+tags: []
+user_id: scott

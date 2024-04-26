@@ -1,0 +1,6 @@
+artifact_location: file:///Users/scott/Documents/techex/11-final_project/generative-ai-text-summarization/src/mlruns/532620635989680925
+creation_time: 1714061885004
+experiment_id: '532620635989680925'
+last_update_time: 1714061885004
+lifecycle_stage: active
+name: transformer_model_v5.keras

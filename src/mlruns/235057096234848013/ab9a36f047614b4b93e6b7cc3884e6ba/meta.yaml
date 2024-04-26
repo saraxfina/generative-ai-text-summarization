@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/11-final_project/generative-ai-text-summarization/src/mlruns/235057096234848013/ab9a36f047614b4b93e6b7cc3884e6ba/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '235057096234848013'
+lifecycle_stage: active
+run_id: ab9a36f047614b4b93e6b7cc3884e6ba
+run_name: omniscient-ape-2
+run_uuid: ab9a36f047614b4b93e6b7cc3884e6ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714069102056
+status: 1
+tags: []
+user_id: scott

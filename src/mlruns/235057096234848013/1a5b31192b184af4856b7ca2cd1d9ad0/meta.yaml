@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/11-final_project/generative-ai-text-summarization/src/mlruns/235057096234848013/1a5b31192b184af4856b7ca2cd1d9ad0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '235057096234848013'
+lifecycle_stage: active
+run_id: 1a5b31192b184af4856b7ca2cd1d9ad0
+run_name: whimsical-sponge-754
+run_uuid: 1a5b31192b184af4856b7ca2cd1d9ad0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714071037190
+status: 1
+tags: []
+user_id: scott

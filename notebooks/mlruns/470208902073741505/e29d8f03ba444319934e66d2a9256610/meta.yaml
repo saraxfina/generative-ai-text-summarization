@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/11-final_project/generative-ai-text-summarization/notebooks/mlruns/470208902073741505/e29d8f03ba444319934e66d2a9256610/artifacts
+end_time: 1714059132618
+entry_point_name: ''
+experiment_id: '470208902073741505'
+lifecycle_stage: active
+run_id: e29d8f03ba444319934e66d2a9256610
+run_name: gregarious-toad-403
+run_uuid: e29d8f03ba444319934e66d2a9256610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714056136581
+status: 4
+tags: []
+user_id: scott

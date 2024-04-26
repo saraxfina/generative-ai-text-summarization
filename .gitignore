@@ -1,3 +1,6 @@
+images/capstone.docker
+models/fine_tuned/fine_tuned_model_v1.keras/tf_model.h5
+models/fine_tuned/fine_tuned_model_v2.keras/tf_model.h5
 models/transformer/transformer_model_v1.keras
 models/transformer/transformer_model_v3.keras
 models/transformer/transformer_model_v2.keras

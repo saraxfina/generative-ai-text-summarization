@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/11-final_project/generative-ai-text-summarization/src/mlruns/235057096234848013/2c9ea0f6c0a048878a12565207728957/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '235057096234848013'
+lifecycle_stage: active
+run_id: 2c9ea0f6c0a048878a12565207728957
+run_name: masked-penguin-65
+run_uuid: 2c9ea0f6c0a048878a12565207728957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714069921790
+status: 1
+tags: []
+user_id: scott
