@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/11-final_project/generative-ai-text-summarization/src/mlruns/532620635989680925/65fa44d5d9cc4121af6ef20ac5b022f2/artifacts
+end_time: 1714061913221
+entry_point_name: ''
+experiment_id: '532620635989680925'
+lifecycle_stage: active
+run_id: 65fa44d5d9cc4121af6ef20ac5b022f2
+run_name: crawling-fowl-623
+run_uuid: 65fa44d5d9cc4121af6ef20ac5b022f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714061885099
+status: 4
+tags: []
+user_id: scott

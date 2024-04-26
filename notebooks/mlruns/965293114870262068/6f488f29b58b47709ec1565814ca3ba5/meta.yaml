@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/11-final_project/generative-ai-text-summarization/notebooks/mlruns/965293114870262068/6f488f29b58b47709ec1565814ca3ba5/artifacts
+end_time: 1714070957359
+entry_point_name: ''
+experiment_id: '965293114870262068'
+lifecycle_stage: active
+run_id: 6f488f29b58b47709ec1565814ca3ba5
+run_name: funny-goat-15
+run_uuid: 6f488f29b58b47709ec1565814ca3ba5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714070904308
+status: 4
+tags: []
+user_id: scott

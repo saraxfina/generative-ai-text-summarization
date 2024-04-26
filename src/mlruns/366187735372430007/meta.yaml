@@ -1,0 +1,6 @@
+artifact_location: file:///Users/scott/Documents/techex/11-final_project/generative-ai-text-summarization/src/mlruns/366187735372430007
+creation_time: 1714060848007
+experiment_id: '366187735372430007'
+last_update_time: 1714060848007
+lifecycle_stage: active
+name: fine_tuned_model_v1.keras

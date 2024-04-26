@@ -1,0 +1,23 @@
+Rouge Scores for Test Data:
+
+Rouge-1 F1_score: 	0.2652635758317547
+Rouge-1 Precision: 	0.337383656580041
+Rouge-1 Recall: 	0.2362840083180189
+Rouge-2 F1_score: 	0.09445583442723059
+Rouge-2 Precision: 	0.12011936052928734
+Rouge-2 Recall: 	0.08687153228761488
+Rouge-l F1_score: 	0.20178044014340893
+Rouge-l Precision: 	0.25627740523133247
+Rouge-l Recall: 	0.18002732086375037
+
+Rouge Scores for Training Data:
+
+Rouge-1 F1_score: 	0.25952527936115555
+Rouge-1 Precision: 	0.3378454350787514
+Rouge-1 Recall: 	0.22676838785678186
+Rouge-2 F1_score: 	0.08681028835902199
+Rouge-2 Precision: 	0.11627892714562145
+Rouge-2 Recall: 	0.07651952011369734
+Rouge-l F1_score: 	0.1939511935768485
+Rouge-l Precision: 	0.25448030861230064
+Rouge-l Recall: 	0.16859916822305157

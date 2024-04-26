@@ -20,7 +20,7 @@ X_test = [re.sub(r'\r\n|\r|\n', ' ', _) for _ in X_test]
 X_test = [re.sub('[^a-zA-Z0-9 ]+', '', _) for _ in X_test]
 
 y_test = [re.sub(r'\r\n|\r|\n', ' ', _) for _ in y_test]
-y_test = [re.sub('[^a-zA-Z0-9 ]+', '', _) for _ in X_test]
+y_test = [re.sub('[^a-zA-Z0-9 ]+', '', _) for _ in y_test]
 
 X_val = [re.sub(r'\r\n|\r|\n', ' ', _) for _ in X_val]
 X_val = [re.sub('[^a-zA-Z0-9 ]+', '', _) for _ in X_val]
