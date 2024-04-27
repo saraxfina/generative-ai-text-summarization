@@ -4,14 +4,7 @@ SummarAIze is a model that generates concise summmaries of long documents or art
 ## Environment Setup 
 [Instructions](config/README.md)
 
-## Contribution Guidelines
+## Contributors
 
-### Contributors
 Scott Mayer  
 Sarafina Gonzalez
-
-### Submitting Changes
-* Check in with other contributor  
-* Create a new branch based off main  
-* Make changes  
-* Commit changes

@@ -1,19 +1,13 @@
-# Documentation
-
 # Table of Contents
 1. [Setup](#phase1)  
 2. [Project Planning](#phase2)  
-3. [Data Collection and Preparation](#phase3)  
-4. [Exploratory Data Analysis](#phase4)  
-5. [Model Development](#phase5)  
-6. [Model Training and Validation](#phase6)  
-7. [Model Containerization](#phase7)
+3. [Data](#phase3)  
+4. [Results](#phase4)  
 
 
 ## 1. Setup <a name="phase1"></a>
-[Instructions](config/README.md)  
+[Instructions](../config/README.md)  
 
----  
 
 ## 2. Project Planning <a name="phase2"></a>
 
@@ -43,14 +37,13 @@ Estimated duration: 36 hours
 **Wednesday**: Model Training & Validation; Model Auditing   
 **Thursday**: Model Serving & Containerization; Project Documentation & Demo Preparation
 
----
 
-## 3. Data Collection and Preparation <a name="phase3"></a>
+## 3. Data <a name="phase3"></a>
 
-### Data Sources
+### Datasets
 
-[**CNN/DailyMail**](data/README.md): A collection of over 300,000 English-language news articles sourced from CNN and the Daily Mail; used for training summarization models.  
-[**News API**](data/README.md): A comprehensive collection of real-time news articles from global sources.  
+[**CNN/DailyMail**](../data/README.md): A collection of over 300,000 English-language news articles sourced from CNN and the Daily Mail; used for training summarization models.  
+[**News API**](../data/README.md): A comprehensive collection of real-time news articles from global sources.  
 
 ### Data Dictionary
 
@@ -69,20 +62,34 @@ Both datasets contain these three columns, in which the 'Article' column will be
 3. Remove special characters  
 4. Split into test, train, and val sets
 
----
 
-## 4. Exploratory Data Analysis <a name="phase4"></a>
+## 4. Results <a name="phase4"></a>
 
----
+### Highlights
 
-## 5. Model Development <a name="phase5"></a>
+| **Reference Summary**                                         | **AI-Generated Summary**                                       |
+|---------------------------------------------------------------|----------------------------------------------------------------|
+| Follow live text and BBC Radio 5 Sports Extra commentary at   | Red Bull team principal Christian Horner told Sky Sports after |
+| the Chinese Grand Prix.                                       | the race that Verstappen is on another planet at the moment.   |
+|                                                               | On comparing his form to the rest of the field he added.       |
+|---------------------------------------------------------------|----------------------------------------------------------------|
+| Olympic champion Peres Jepchirchir storms to victory in a     | Kenya's Alexander Mutiso Munyao held off distance running      |
+| women's only world record time of two hours 16 minutes and 16 | great Kenenisa Buckle to win the men's race in 2024.           |
+| seconds at the London Marathon.                               |                                                                |
+|---------------------------------------------------------------|----------------------------------------------------------------| 
 
----
 
-## 6. Model Training and Validation <a name="phase6"></a>
+### Evaluation
 
----
+|               | **ROUGE-1** | **ROUGE-2** | **ROUGE-L** |
+|---------------|-------------|-------------|-------------|
+| **Precision** | 0.34        | 0.12        | 0.26        |
+|---------------|-------------|-------------|-------------|
+| **Recall**    | 0.24        | 0.09        | 0.18        |
+|---------------|-------------|-------------|-------------|
+| **F1**        | 0.27        | 0.09        | 0.20        |
+|---------------|-------------|-------------|-------------|
 
-## 7. Model Containerization <a name="phase7"></a>
+
 
 
