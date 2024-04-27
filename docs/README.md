@@ -67,29 +67,17 @@ Both datasets contain these three columns, in which the 'Article' column will be
 
 ### Highlights
 
-| **Reference Summary**                                         | **AI-Generated Summary**                                       |
-|---------------------------------------------------------------|----------------------------------------------------------------|
-| Follow live text and BBC Radio 5 Sports Extra commentary at   | Red Bull team principal Christian Horner told Sky Sports after |
-| the Chinese Grand Prix.                                       | the race that Verstappen is on another planet at the moment.   |
-|                                                               | On comparing his form to the rest of the field he added.       |
-|---------------------------------------------------------------|----------------------------------------------------------------|
-| Olympic champion Peres Jepchirchir storms to victory in a     | Kenya's Alexander Mutiso Munyao held off distance running      |
-| women's only world record time of two hours 16 minutes and 16 | great Kenenisa Buckle to win the men's race in 2024.           |
-| seconds at the London Marathon.                               |                                                                |
-|---------------------------------------------------------------|----------------------------------------------------------------| 
-
+| ** Reference Summary**                                                                                                                                  | ** AI-Generated Summary**                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Follow live text and BBC Radio 5 Sports Extra commentary at the Chinese Grand Prix.                                                                     | Red Bull team principal Christian Horner told Sky Sports after the race that Verstappen is on another planet at the moment. On comparing his form to the rest of the field he added. |
+| Olympic champion Peres Jepchirchir storms to victory in a women's only world record time of two hours 16 minutes and 16 seconds at the London Marathon. | Kenya's Alexander Mutiso Munyao held off distance running great Kenenisa Buckle to win the men's race in 2024.                                                                       |  
 
 ### Evaluation
 
 |               | **ROUGE-1** | **ROUGE-2** | **ROUGE-L** |
 |---------------|-------------|-------------|-------------|
 | **Precision** | 0.34        | 0.12        | 0.26        |
-|---------------|-------------|-------------|-------------|
 | **Recall**    | 0.24        | 0.09        | 0.18        |
-|---------------|-------------|-------------|-------------|
-| **F1**        | 0.27        | 0.09        | 0.20        |
-|---------------|-------------|-------------|-------------|
-
-
+| **F1**        | 0.27        | 0.09        | 0.20        |  
 
 

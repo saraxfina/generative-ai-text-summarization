@@ -1,17 +1,8 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 # Imports
 import numpy as np
 import pandas as pd
 import re
 from sklearn.model_selection import train_test_split
-
-
-# In[2]:
 
 
 # Load data
@@ -38,15 +29,9 @@ df = pd.DataFrame(
 df.dropna(inplace=True)
 
 
-# In[3]:
-
-
 # Convert all text to lower case
 df['document'] = df['document'].str.lower()
 df['summary'] = df['summary'].str.lower()
-
-
-# In[4]:
 
 
 # Remove special characters
@@ -68,9 +53,6 @@ df['document'] = document
 df['summary'] = summary
 
 
-# In[6]:
-
-
 # Split data into train, test, and val sets
 X_train, X_val, y_train, y_val = train_test_split(df["document"], df["summary"], train_size=0.8, random_state=42)
 
@@ -83,15 +65,7 @@ X_val = np.asarray(X_val)
 y_val = np.asarray(y_val)
 
 
-# In[8]:
-
-
 # Save the cleaned data
 np.savez('../data/dataset_cleaned.npz' , X_train=X_train, y_train=y_train, X_test=X_test, y_test=y_test, X_val=X_val, y_val=y_val)
-
-
-# In[ ]:
-
-
 
 
